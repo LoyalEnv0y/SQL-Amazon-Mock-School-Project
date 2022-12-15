@@ -4,34 +4,34 @@ SQL {
 
 	UPDATE:			https://www.w3schools.com/sql/sql_update.asp
 	DELETE:			https://www.w3schools.com/sql/sql_delete.asp
-	FOREIGN KEY:	https://www.w3schools.com/sql/sql_foreignkey.asp
-	ALTER TABLE:	https://www.w3schools.com/sql/sql_alter.asp
+	FOREIGN KEY:		https://www.w3schools.com/sql/sql_foreignkey.asp
+	ALTER TABLE:		https://www.w3schools.com/sql/sql_alter.asp
 	DEFAULT:		https://www.w3schools.com/sql/sql_default.asp
 	UNIQUE:			https://www.w3schools.com/sql/sql_unique.asp
 	GROUP BY:		https://www.w3schools.com/sql/sql_having.asp
 	JOINS:			https://www.w3schools.com/sql/sql_join.asp
 	DISTINCT:		https://www.w3schools.com/sql/sql_distinct.asp
 
-	UPPERCASE: https://stackoverflow.com/questions/15778299/sql-server-uppercase-for-all-data-for-all-columns-in-the-table
+	UPPERCASE: 			https://stackoverflow.com/questions/15778299/sql-server-uppercase-for-all-data-for-all-columns-in-the-table
 	INSERTING A STRING VALUE THAT HAS A SINGLE QUOTE INSIDE IT: https://raresql.com/2013/06/13/sql-server-how-to-insert-a-string-value-with-an-apostrophe-single-quote-in-a-column/
-	ALTERING NVARCHAR LENGTH: https://stackoverflow.com/questions/45845430/how-to-alter-column-nvarchar-length-without-drop
-	RESETIN IDENTITY SEED: https://stackoverflow.com/questions/21824478/reset-identity-seed-after-deleting-records-in-sql-server
-	DIFFERENCE BETWEEN JOINS: https://www.freecodecamp.org/news/sql-join-types-inner-join-vs-outer-join-example/#:~:text=The%20biggest%20difference%20between%20an,table%20in%20the%20resulting%20table.
-	RENAME COLUMNS IN TABLE: https://learn.microsoft.com/en-us/sql/relational-databases/tables/rename-columns-database-engine?view=sql-server-ver16
+	ALTERING NVARCHAR LENGTH: 	https://stackoverflow.com/questions/45845430/how-to-alter-column-nvarchar-length-without-drop
+	RESETIN IDENTITY SEED: 		https://stackoverflow.com/questions/21824478/reset-identity-seed-after-deleting-records-in-sql-server
+	DIFFERENCE BETWEEN JOINS: 	https://www.freecodecamp.org/news/sql-join-types-inner-join-vs-outer-join-example/#:~:text=The%20biggest%20difference%20between%20an,table%20in%20the%20resulting%20table.
+	RENAME COLUMNS IN TABLE: 	https://learn.microsoft.com/en-us/sql/relational-databases/tables/rename-columns-database-engine?view=sql-server-ver16
 }
 
 TOOLS {
-	LETTER COUNTER: https://www.lettercount.com/
-	USA STATE CODES: https://www.sinfin.net/railways/world/usa/stateids.html
-	USA CITIES: https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population
-	BCRYPT GENERATOR: https://bcrypt-generator.com/
-	COUNTRY CODES: https://countrycode.org/
-	ORIGINAL IDEA: https://www.amazon.com/
-	COMPANY ROLES: https://www.indiafilings.com/learn/company-management-structure-roles-responsibilities/
-	LIST OF AMAZON LOCATIONS: https://en.wikipedia.org/wiki/List_of_Amazon_locations#United_States
-	HOW TO GENERATE SALT: https://security.stackexchange.com/questions/8015/what-should-be-used-as-a-salt
-	ASCII TABLE: https://theasciicode.com.ar/
-	SALES CHANNELS: https://www.indeed.com/career-advice/career-development/sales-channel
-	PAYMENT OPTIONS: https://www.practicalbusinessskills.com/managing-a-business/financial-management/payment-options
-	NAME GENERATOR: https://www.name-generator.org.uk/?i=1ir8kqqb
+	LETTER COUNTER: 			https://www.lettercount.com/
+	USA STATE CODES: 			https://www.sinfin.net/railways/world/usa/stateids.html
+	USA CITIES: 				https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population
+	BCRYPT GENERATOR: 			https://bcrypt-generator.com/
+	COUNTRY CODES: 				https://countrycode.org/
+	ORIGINAL IDEA: 				https://www.amazon.com/
+	COMPANY ROLES: 				https://www.indiafilings.com/learn/company-management-structure-roles-responsibilities/
+	LIST OF AMAZON LOCATIONS: 		https://en.wikipedia.org/wiki/List_of_Amazon_locations#United_States
+	HOW TO GENERATE SALT: 			https://security.stackexchange.com/questions/8015/what-should-be-used-as-a-salt
+	ASCII TABLE: 				https://theasciicode.com.ar/
+	SALES CHANNELS: 			https://www.indeed.com/career-advice/career-development/sales-channel
+	PAYMENT OPTIONS: 			https://www.practicalbusinessskills.com/managing-a-business/financial-management/payment-options
+	NAME GENERATOR: 			https://www.name-generator.org.uk/?i=1ir8kqqb
 }
