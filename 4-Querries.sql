@@ -6,7 +6,7 @@ SELECT * FROM Sales WHERE PaymentID IN (1,3,6)
 -- List products where there haven't been faulty instances of that product.
 SELECT * FROM Products WHERE FaultyProductsCount = 0 
 
--- List total products to faulty products ratio where there haven't been faulty instances of that product.
+-- List total products to faulty products ratio where there have been faulty instances of that product.
 SELECT ProductID, ProductName, ProductSold, FaultyProductsCount, ProductSold/FaultyProductsCount AS FaultRatio FROM Products WHERE FaultyProductsCount >= 1
 
 -- List of top 10 most salled items in 2022
